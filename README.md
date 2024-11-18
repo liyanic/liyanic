@@ -3,7 +3,7 @@
 ---
 
 <a href="https://github.com/liyanic" align="left">
-  <img align="center" src="https://fancy-readme-stats.vercel.app/api/wakatime?username=BlackDevReal&theme=city&dark_bg=3&show_icons=true&layout=compact&update=7" />
+  <img align="center" src="https://fancy-readme-stats.vercel.app/api/wakatime?username=yanstu&theme=city&dark_bg=3&show_icons=true&layout=compact&update=7" />
 </a>
 
 ---
