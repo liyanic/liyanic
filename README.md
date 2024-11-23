@@ -1,4 +1,4 @@
-[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=liyanic&theme=city&email=simpleclient@outlook.de&show_icons=true&title=Hi,%20I'm%20Liyanic%20👋&description=Developer%20from%20Switzerland&include_all_commits=true&show_icons=true)](https://github.com/liyanic)
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=liyanic&theme=city&footer=simpleclient@outlook.de&show_icons=true&title=Hi,%20I'm%20Liyanic%20👋&description=Developer%20from%20Switzerland&include_all_commits=true&show_icons=true)](https://github.com/liyanic)
 
 ---
 
